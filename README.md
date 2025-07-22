@@ -19,6 +19,4 @@ My name is Alexandro and I'm an ICT student at the Jyväskylä University of App
     
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=noChillGrandma&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noChillGrandma)](https://github.com/noChillGrandma/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noChillGrandma&hide=javascript,html,CMake&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noChillGrandma&layout=pie&hide=javascript,html,CMake&theme=dark)](https://github.com/noChillGrandma/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noChillGrandma&layout=compact&hide=CMake&theme=dark)](https://github.com/noChillGrandma/github-readme-stats)
