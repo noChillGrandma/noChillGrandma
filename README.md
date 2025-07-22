@@ -16,4 +16,6 @@ Here are some ideas to get you started:
 -->
 
 My name is Alexandro and I'm an ICT student at the Jyväskylä University of Applied Sciences.
+    
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=noChillGrandma)](https://github.com/noChillGrandma/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=noChillGrandma&show_icons=true)
